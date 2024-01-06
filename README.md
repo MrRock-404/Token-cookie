@@ -1,6 +1,6 @@
 # This Tools Is Fb Token & Cookie Converter 
 
-# pip install request 
+# pip install requests
 
 # rm -rf Token-cookie
 
